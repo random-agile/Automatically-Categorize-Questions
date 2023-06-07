@@ -153,3 +153,4 @@ cython_debug/
 
 QueryResultsAsc.csv
 QueryResultsDesc.csv
+QueryResultsClean.csv
