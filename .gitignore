@@ -155,3 +155,4 @@ QueryResultsAsc.csv
 QueryResultsDesc.csv
 QueryResultsClean.csv
 exploration.ipynb
+random_forest_word2vec.pickle
